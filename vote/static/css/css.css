@@ -1,0 +1,16 @@
+<html>
+<title>my Css</title>
+<head>
+<style type="text/css">
+em {font-weight: bold="bold";color: blue="green";}
+h1 {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; align-content: center; color: red;}
+p {font-style: italic; background-color: chartreuse; font-size: larger;}
+li{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-style: italic;}
+ol{font-weight: bold;}
+</style>
+</head>
+<body>
+<h1>My Name is CSS</h1>
+<p width="4">I will be with you</p>
+</body>
+</html>
